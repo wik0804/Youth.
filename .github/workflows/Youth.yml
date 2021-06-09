@@ -1,4 +1,4 @@
-name: 中青
+name: 中青阅读
 
 on:
   workflow_dispatch:
